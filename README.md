@@ -36,7 +36,7 @@ A tela fará requisições para `http://localhost:8080/login`.
 
 ## Estrutura de pastas
 ```
-SD_C1_Dupla_Nome1_Nome2/
+trabalho-docker
 ├─ README.md
 ├─ frontend/
 │  └─ index.html
