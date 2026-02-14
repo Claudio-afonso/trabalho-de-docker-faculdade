@@ -1,0 +1,7 @@
+primeiro passo eu tive que instalar as paradas do java, o Maven (que foi dificil para um caralho até eu entender como funciona) e o JDK
+
+segundo passo eu tive que entender como rodar esse treco no CMD, qual comando certo de se dar, tive que entender que eu tinha que tacar o caminho do backend no CMD antes de rodar o comando para a tela de login poder ser validada.
+
+terceiro passo foi entender como os comandos em si funciona, como cada comando que foi criado que é complexo pra caramba e ver oque cada coisa gera como resultado no backend.
+
+deixei esse documento aq só pra demonstrar que pelomenos eu tive que entender o basico pra fazer ele funcionar...
