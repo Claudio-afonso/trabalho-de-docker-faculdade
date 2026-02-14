@@ -13,7 +13,7 @@ Este projeto entrega um **frontend simples com tela de login** e um **backend em
 ### 1) Backend (porta 8080)
 Pré‑requisitos: Java 17+ e Maven instalados.
 
-pegar o diretório da pasta backend ex:(C:\Users\onyx\Desktop\SD_C1_Dupla_claudio_valmir.zip\backend) e rodar o comando cd C:\Users\onyx\Desktop\SD_C1_Dupla_claudio_valmir.zip\backend
+pegar o diretório da pasta backend e rodar o comando cd C:\Users\claudio\Desktop\Trabalho-docker
 
 ```bash
 cd backend
